@@ -1,4 +1,5 @@
-# That is a little list with the more common used (for me) reguar expression<ul><li>\s => un espacio</li>	<li>\w => una letra</li>
+# That is a little list with the more common used (for me) regular expressions<ul><li>\s => un espacio</li>
+<li>\w => una letra</li>
 <li>\w+ => una o más letras</li>
 <li>\. => un punto</li>
 <li>\d{1,5} => entre 1 y 5 dígitos (números)</li>
